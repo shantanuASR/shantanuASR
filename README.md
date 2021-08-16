@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shantanuASR
+- 👋 Hi, I’m @shantanujha
 - 👀 I’m interested in speech and signal processing for computational linguistics.
 - 🌱 I’m currently learning Machine learning techniques.
 - 💞️ I’m looking to collaborate on ...
